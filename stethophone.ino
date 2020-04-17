@@ -1,4 +1,7 @@
  /*
+   Modified by Barbara Nerness and Anika Fuloria 
+       2019-2020, CCRMA, Stanford
+ 
    This code is developed from code from the PulseSensor library.
 
    Copyright World Famous Electronics LLC - see LICENSE
